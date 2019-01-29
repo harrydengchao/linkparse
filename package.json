@@ -1,0 +1,22 @@
+{
+  "name": "linkparse",
+  "version": "0.1.0",
+  "description": "linkparse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrydengchao/linkparse.git"
+  },
+  "keywords": [
+    "linkparse"
+  ],
+  "author": "dengchao2056@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrydengchao/linkparse/issues"
+  },
+  "homepage": "https://github.com/harrydengchao/linkparse#readme"
+}
